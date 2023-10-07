@@ -1,4 +1,5 @@
-### Hi there 👋
+
+# Hi there 👋
 - 🔭 I’m currently working on java fullstack
 - 🌱 I’m currently learning algorithms
 - 📫 Reach me: [linkedin](https://www.linkedin.com/in/harshitha-vardhani/)
