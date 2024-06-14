@@ -1,7 +1,7 @@
 
 # Hi there 👋
-- 🔭 I’m currently working on java fullstack
-- 🌱 I’m currently learning algorithms
+- 🔭 I’m currently working as Machine Learning Application Developer Intern
+- 🌱 I’m currently learning Machine Learning and Computer Vision Models and techniques
 - 📫 Reach me: [linkedin](https://www.linkedin.com/in/harshitha-vardhani/)
 
 <!--
