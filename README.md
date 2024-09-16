@@ -1,6 +1,6 @@
 
 # Hi there 👋
-- 🔭 I’m currently working as Machine Learning Application Developer Intern
+- 🔭 I am passionate about AI and ML
 - 🌱 I’m currently learning Machine Learning and Computer Vision Models and techniques
 - 📫 Reach me: [linkedin](https://www.linkedin.com/in/harshitha-vardhani/)
 
