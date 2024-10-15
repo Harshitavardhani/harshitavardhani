@@ -1,6 +1,6 @@
 
 # Hi there 👋
-- 🔭 I am passionate about New Technology
+- 🔭 I am passionate about New Technologies
 - 🌱 I’m currently learning Machine Learning techniques
 - 📫 Reach me: [linkedin](https://www.linkedin.com/in/harshitha-vardhani/)
 
