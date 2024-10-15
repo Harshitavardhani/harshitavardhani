@@ -1,7 +1,7 @@
 
 # Hi there 👋
-- 🔭 I am passionate about AI and ML
-- 🌱 I’m currently learning Machine Learning and Computer Vision Models and techniques
+- 🔭 I am passionate about New Technology
+- 🌱 I’m currently learning Machine Learning techniques
 - 📫 Reach me: [linkedin](https://www.linkedin.com/in/harshitha-vardhani/)
 
 <!--
